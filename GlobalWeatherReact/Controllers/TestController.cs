@@ -7,6 +7,7 @@ namespace GlobalWeatherReact.Controllers
         public IActionResult Index()
         {
             return View();
+            // commented by deep
         }
     }
 }

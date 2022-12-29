@@ -18,6 +18,7 @@ namespace GlobalWeatherReact.Controllers
             _service = service;
             _logger = logger;
 
+            // for testing purpose
         }
 
         // GET api/cities

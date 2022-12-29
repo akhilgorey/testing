@@ -8,6 +8,7 @@ namespace GlobalWeatherReact.Controllers
         {
             return View();
             // commented by deep
+           /// dsfdsfds
         }
     }
 }
